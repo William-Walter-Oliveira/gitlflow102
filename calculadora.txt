@@ -1,5 +1,5 @@
-Declaração de variáveis
+Declaração de variáveis - testes OK
 
-Leitura de entradas do programa
+Leitura de entradas do programa - testes OK
 
-Criação da função SOMA
+Criação da função SOMA - testes OK
