@@ -1,3 +1,5 @@
 Declaração de variáveis
 
 Leitura de entradas do programa
+
+Criação da função SOMA
